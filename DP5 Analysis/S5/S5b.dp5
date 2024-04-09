@@ -1,0 +1,31 @@
+Smiles_Mol_0_
+
+Solvent = 
+Force Field = mmff
+
+
+Number of isomers = 1
+Number of conformers for isomer 1 = 0
+label, exp, error,prob
+C20     28.50   0.62
+C19     30.50   0.10
+C22     36.50   0.94
+C1      42.40   0.98
+C4      60.80   0.00
+C25     61.70   0.99
+C3      71.80   0.76
+C6      81.70   1.00
+C15    122.10   0.92
+C14    127.30   0.23
+C12    129.90   0.84
+C16    137.00   0.59
+C24    142.40   0.57
+C9     145.60   0.24
+C7     145.80   0.45
+C13    158.10   0.63
+C21    158.70   0.11
+C10    173.50   0.38
+C17    206.70   0.00
+
+Results of DP5: 
+Isomer 1: 11.0%
